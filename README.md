@@ -54,17 +54,6 @@ I help startups, SMBs, and enterprises turn complex ideas into elegant solutions
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JSdevv99&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JSdevv99&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
 ## 📬 Let’s Connect!
 
 <p align="center">
