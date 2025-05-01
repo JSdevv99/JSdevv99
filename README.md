@@ -57,7 +57,7 @@ I help startups, SMBs, and enterprises turn complex ideas into elegant solutions
 ## 📬 Let’s Connect!
 
 <p align="center">
-  <a href="[https://www.upwork.com/freelancers/~01e5c8037a826a3c69]"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+   <a href="https://www.upwork.com/freelancers/~01e5c8037a826a3c69"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
 </p>
 
 ---
